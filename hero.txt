@@ -1,0 +1,5 @@
+Name: Duglas
+Age: 21
+Height: 180
+Weight: 73
+Power: 33
